@@ -1,0 +1,9 @@
+groq
+datasets
+torch
+transformers
+peft
+trl
+bitsandbytes
+gradio
+huggingface_hub
