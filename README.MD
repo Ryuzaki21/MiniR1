@@ -29,7 +29,7 @@ MiniR1/
 
 ## Getting Started
 ```bash
-git clone https://github.com/Ryuzaki23/MiniR1.git
+git clone git clone https://github.com/Ryuzaki21/MiniR1.git
 cd MiniR1
 pip install -r requirements.txt
 ```
