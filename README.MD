@@ -1,4 +1,4 @@
-# qlora-llama3.2-reasoning(MiniR1): Fine-tuned Llama 3.2 3B with Reasoning
+# qlora-llama3.2-reasoning(MiniR1)
 
 A small language model fine-tuned to reason through math problems step by step.
 
